@@ -2,6 +2,4 @@
 x -= global.velocity;
 
 // Wrap around the screen edges
-if (x < -sprite_width) {
-    x = room_width;
-}
+move_wrap(true,true,random_range(80, 130));
