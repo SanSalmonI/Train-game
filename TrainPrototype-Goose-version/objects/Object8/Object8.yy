@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oTree",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Object8",
+  "eventList":[],
   "managed":true,
-  "name":"oTree",
+  "name":"Object8",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"SPR_Tree",
-    "path":"sprites/SPR_Tree/SPR_Tree.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

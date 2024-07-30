@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oTree",
+  "%Name":"oMountain",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oTree",
+  "name":"oMountain",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SPR_Tree",
-    "path":"sprites/SPR_Tree/SPR_Tree.yy",
+    "name":"SPR_mountines",
+    "path":"sprites/SPR_mountines/SPR_mountines.yy",
   },
   "spriteMaskId":null,
   "visible":true,
