@@ -10,3 +10,9 @@ global.at_stop = false;
 global.score = 0;
 
 score_token = true;
+
+surface_resize(application_surface, 634, 360);
+
+window_set_size(634 * 2, 360 * 2);
+
+window_center();

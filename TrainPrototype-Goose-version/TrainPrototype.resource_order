@@ -6,6 +6,8 @@
     {"name":"oController","order":4,"path":"objects/oController/oController.yy",},
     {"name":"oEngine","order":2,"path":"objects/oEngine/oEngine.yy",},
     {"name":"oMountain","order":7,"path":"objects/oMountain/oMountain.yy",},
+    {"name":"oTree_1","order":8,"path":"objects/oTree_1/oTree_1.yy",},
+    {"name":"oTree_2","order":9,"path":"objects/oTree_2/oTree_2.yy",},
     {"name":"oTree","order":3,"path":"objects/oTree/oTree.yy",},
     {"name":"sAlert","order":6,"path":"sprites/sAlert/sAlert.yy",},
     {"name":"sEngine1","order":3,"path":"sprites/sEngine1/sEngine1.yy",},
